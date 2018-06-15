@@ -1,0 +1,21 @@
+#container {
+background-color: rgb(59, 59, 150);
+padding: 3%;
+color: white;
+}
+
+/* #title {
+color: white;
+} */
+
+#buttons-view {
+margin-bottom: 5%;
+}
+
+.food-btn {
+margin: 2%;
+padding: 3px;
+font-size: x-large;
+background-color:grey;
+color: white;
+}
